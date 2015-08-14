@@ -1,7 +1,7 @@
 = dokan-ruby
 
 This is as wrapper-gem for dokan ruby bindings by Hiroki Asakawa.
-You can download the original souce from http://dokan-dev.net/en/download/#ruby.
+You can download the original souce from https://github.com/dokan-dev/dokan-ruby.
 
 To run this gem you need dokan library installed.
 
@@ -18,7 +18,7 @@ Ruby extension to write a windows file system.
 
 == Howto
 
-1. Install dokan library. You can find it here: http://dokan-dev.net/en/download/
+1. Install dokan library. You can find it here: https://github.com/dokan-dev/dokany/releases
 2. Install this gem (gem install dokan-ruby)
 3. Run the samples unter ext\dokan-ruby-0.1.5.1229\samples to get a feeling how things work
 4. Implement your own cool filsystem und mount it
